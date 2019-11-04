@@ -85,7 +85,7 @@
         "resourcePrefix": "[take(uniqueString(resourceGroup().id), 5)]",
         "location":"[resourceGroup().location]",
         "storageAccountNamePrefix": "[variables('resourcePrefix')]",
-        "storageAccountType": "Premium_LRS",
+        "storageAccountType": "Standard_LRS",
         "spSiteTemplateName": "STS#0",
         "adVMSize":"Standard_DS2_v2",
         "sqlVMSize":"Standard_DS3_v2",
