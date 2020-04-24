@@ -54,7 +54,7 @@ This template will create a SQL Server 2014 Always On Availability Group using t
 <a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fdev.azure.com%2Fdiscovertech%2FDGit%2F_git%2FAzure-DevTestLabs%3Fpath%3D%2FFARMTemplates%2FSharePoint%20Server%20Farm%20HA%2Fazuredeploy.json" target="_blank">
     <img src="https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazure.svg?sanitize=true"/>
 </a>
-<a href="http://armviz.io/#/?load=https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fdev.azure.com%2Fdiscovertech%2FDGit%2F_git%2FAzure-DevTestLabs%3Fpath%3D%2FFARMTemplates%2FSharePoint%20Server%20Farm%20HA%2Fazuredeploy.json" target="_blank">
+<a href="http://armviz.io/#/?load=https%3A%2F%2Fdev.azure.com%2Fdiscovertech%2FDGit%2F_git%2FAzure-DevTestLabs%3Fpath%3D%2FFARMTemplates%2FSharePoint%20Server%20Farm%20HA%2Fazuredeploy.json" target="_blank">
     <img src="https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/visualizebutton.svg?sanitize=true"/>
 </a>
 
