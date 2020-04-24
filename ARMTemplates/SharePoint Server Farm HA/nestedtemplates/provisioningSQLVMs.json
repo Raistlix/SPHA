@@ -3,7 +3,8 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "sqlVMName": {
-      "type": "string"
+      "type": "string",
+      "defaultValue": "sql-w"
     },
     "location": {
       "type": "string"
