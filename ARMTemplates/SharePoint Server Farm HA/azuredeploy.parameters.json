@@ -24,7 +24,7 @@
       "value": "GEN-PASSWORD"
     },
     "sharePointFarmAccountPassword": {
-      "value": "Admin123sp!farm"
+      "value": "DTPass.01234"
     },
     "sharePointFarmPassphrasePassword": {
       "value": "GEN-PASSWORD"
@@ -60,7 +60,7 @@
       "value": "Standard_DS3"
     },
     "domainName": {
-      "value": "contoso.local"
+      "value": "dtech.local"
     }
   }
 }
