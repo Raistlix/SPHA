@@ -3,10 +3,10 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "adminUsername": {
-      "value": "GEN-UNIQUE"
+      "value": "DTech"
     },
     "adminPassword": {
-      "value": "GEN-PASSWORD"
+      "value": "DTPAss.01234"
     },
     "sharepointFarmName": {
       "value": "SharepointFarm"
@@ -15,19 +15,19 @@
       "value": "sqlservice"
     },
     "sqlServerServiceAccountPassword": {
-      "value": "GEN-PASSWORD"
+      "value": "DTPass.01234"
     },
     "sharePointSetupUserAccountUserName": {
       "value": "spsetup"
     },
     "sharePointSetupUserAccountPassword": {
-      "value": "GEN-PASSWORD"
+      "value": "DTPass.01234"
     },
     "sharePointFarmAccountPassword": {
       "value": "DTPass.01234"
     },
     "sharePointFarmPassphrasePassword": {
-      "value": "GEN-PASSWORD"
+      "value": "DTPass.01234"
     },
     "spWebIPRGName": {
       "value": "GEN-UNIQUE-10"
