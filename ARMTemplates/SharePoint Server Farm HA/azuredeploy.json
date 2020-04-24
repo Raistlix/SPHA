@@ -77,7 +77,7 @@
         "group": "Infrastructure settings",
         "description": "Change this value to your repo name if deploying from a fork"
       },
-      "defaultValue": "https://dev.azure.com/discovertech/DGit/_git/Azure-DevTestLabs?path=%2FARMTemplates%2FSharePoint%20Server%20Farm%20HA"
+      "defaultValue": "https://raw.githubusercontent.com/Raistlix/SPHA/master/ARMTemplates/SharePoint%20Server%20Farm%20HA"
     },
     "_artifactsLocationSasToken": {
       "type": "securestring",
