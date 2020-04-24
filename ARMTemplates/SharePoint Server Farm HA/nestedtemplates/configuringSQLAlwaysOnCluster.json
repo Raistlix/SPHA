@@ -67,7 +67,7 @@
     },
     "sqlwVMName": {
       "type": "string",
-      "defaultValue": "sql-w"
+      "defaultValue": "sqlw"
     },
     "fswConfigurationModulesURL": {
       "type": "string"

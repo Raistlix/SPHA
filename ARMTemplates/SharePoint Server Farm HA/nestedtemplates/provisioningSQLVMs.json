@@ -67,7 +67,7 @@
     },
     "sqlwVMName": {
       "type": "string",
-      "defaultValue": "sql-w"
+      "defaultValue": "sqlw"
     },
     "sqlwNicName": {
       "type": "string"
@@ -86,7 +86,7 @@
     {
       "apiVersion": "2017-03-30", 
       "type": "Microsoft.Compute/virtualMachines",
-      "name": "sql-w",
+      "name": "sqlw",
       "location": "[parameters('location')]",
       "properties": {
         "hardwareProfile": {
