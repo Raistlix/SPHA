@@ -277,7 +277,7 @@
       "adPDCVMName": "ad-pdc",
       "adBDCVMName": "ad-bdc",
       "sqlVMName": "sql-",
-      "sqlwVMName": "sql-w",
+      "sqlwVMName": "sqlw",
       "spwebVMName": "sps-web-",
       "spappVMName": "sps-app-",
       "windowsImagePublisher": "MicrosoftWindowsServer",
