@@ -291,7 +291,8 @@
       "sqlLBName": "sqlLoadBalancer",
       "rdpLBName": "rdpLoadBalancer",
       "spWebLBName": "spWebLoadBalancer",
-      "spCALBName": "spCALoadBalancer"
+      "spCALBName": "spCALoadBalancer",
+      "sqlwVMName": "sqlw"
     },
     "subnetNames": {
       "staticSubnetName": "staticSubnet",
